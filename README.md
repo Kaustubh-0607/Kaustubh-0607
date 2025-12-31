@@ -1,18 +1,20 @@
 ![Banner](banner1.gif)
-## Hello World 👋
 
-I'm Kaustubh!
-
-<h1 align="center">Hi 👋, I'm Cypher</h1>
-<h3 align="center">ECE Undergraduate | Python Developer | Chatbot Builder | Control & Instrumentation Enthusiast</h3>
+<h1 align="center">Hi World 👋, I'm Kaustubh</h1>
+<h3 align="center">ECE Undergraduate | Python & C Developer | Semiconductor & Embedded Systems Enthusiast | Exploring AI & ML</h3>
 
 <p align="center">
   <a href="https://github.com/Kaustubh-0607">
-    <img src="https://komarev.com/ghpvc/?username=Kaustubh-0607&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Kaustubh-0607&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitors" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Kaustubh-0607?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kaustubh-0607?label=Followers&style=flat&color=brightgreen" alt="Follow" />
   </a>
 </p>
 
----
+
+
 
 ## 🚀 About Me
 
@@ -20,7 +22,6 @@ I’m an **Electronics & Communication Engineering undergraduate** who loves bui
 
 I focus on **learning by building** — turning concepts from **Control & Instrumentation, Python, and AI** into practical, working projects. I strongly believe that **clarity, consistency, and fundamentals** matter more than hype.
 
----
 
 ## 🔭 What I’m Currently Working On
 - 🤖 **AI-powered Chatbot projects** using Python & Chat UI frameworks  
@@ -29,7 +30,6 @@ I focus on **learning by building** — turning concepts from **Control & Instru
 - ⚙ Exploring **Control & Instrumentation systems** with software integration  
 - 🔗 Projects that **bridge ECE concepts with software systems**
 
----
 
 ## 👯 I’m Looking to Collaborate On
 - 💡 **Chatbot & AI-based tools** (assistants, automation, NLP experiments)  
@@ -37,7 +37,6 @@ I focus on **learning by building** — turning concepts from **Control & Instru
 - ⚡ **ECE + Software hybrid projects** (dashboards, simulators, monitoring systems)  
 - 🎓 Student-driven technical communities & learning-in-public initiatives
 
----
 
 ## 🤝 I’m Looking for Help With
 - 🏗 Designing **scalable chatbot architectures**  
@@ -45,7 +44,6 @@ I focus on **learning by building** — turning concepts from **Control & Instru
 - 🔄 Applying **instrumentation & electronics concepts** in software projects  
 - 🌱 Open-source workflows (issues, PRs, best practices)
 
----
 
 ## 🌱 Currently Learning
 - 🐍 **Advanced Python** (OOP, databases, automation, chatbots)  
@@ -53,27 +51,24 @@ I focus on **learning by building** — turning concepts from **Control & Instru
 - 🤖 **AI & Machine Learning fundamentals**  
 - 📡 Core **ECE subjects** with practical, industry-oriented focus
 
----
 
 ## 💬 Ask Me About
 - 🤖 Building **Python chatbots from scratch**  
 - 🧠 DSA learning strategies for students  
 - ⚙ Control & Instrumentation basics (NTPC C&I exposure)  
 - 🔗 Combining **ECE theory with software development**
-
----
+  
 
 ## ⚡ Fun Fact
 🏆 **Jagran Genius Award** recipient  
 🎓 **British Council Certified – C1 Advanced English**  
+🧩 Featured Project — IoT-Enabled Arduino Mystery Maze Game
 💡 I enjoy simplifying complex technical ideas and turning theory into real, working systems.
-
----
 
 ## 🛠 Tech Stack
 
 **Languages:**  
-`Python` `C`
+`Python` `C` `C++` `Notion` `Arduino` `Streamlit` 
 
 **Core Concepts:**  
 `OOP` `DSA` `Databases` `Control & Instrumentation`
@@ -81,13 +76,12 @@ I focus on **learning by building** — turning concepts from **Control & Instru
 **Tools & Frameworks:**  
 `SQLite` `Tkinter` `Streamlit` `Git & GitHub`
 
----
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/kaustubh06  
 - 📧 Email: kaustubh.tech06@gmail.com  
 
----
+
 
 ⭐ *If you like structured learning, real projects, and honest progress — feel free to connect or collaborate.*
 
