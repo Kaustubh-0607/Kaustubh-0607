@@ -3,9 +3,106 @@
 
 I'm Kaustubh!
 
-<h1 align="center">Hi there 👋, I'm Cypher</h1> <h3 align="center">ECE Undergrad | Python Developer | Chatbot Engineer | Control & Instrumentation Explorer</h3> <p align="center"> <a href="https://github.com/Kaustubh-0607"><img src="https://img.shields.io/badge/GitHub-Kaustubh--0607-black?logo=github"></a> <a href="https://www.linkedin.com/in/kaustubh06/"><img src="https://img.shields.io/badge/LinkedIn-Kaustubh-blue?logo=linkedin"></a> <img src="https://img.shields.io/badge/British%20Council-C1%20Advanced-green"> </p>
+<h1 align="center">Hi 👋, I'm Cypher</h1>
+<h3 align="center">ECE Undergraduate | Python Developer | Chatbot Builder | Control & Instrumentation Enthusiast</h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh-0607&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh-0607&theme=tokyonight" /> </p>
+<p align="center">
+  <a href="https://github.com/Kaustubh-0607">
+    <img src="https://komarev.com/ghpvc/?username=Kaustubh-0607&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I’m an **Electronics & Communication Engineering undergraduate** who loves building **real-world systems at the intersection of software and core engineering**.
+
+I focus on **learning by building** — turning concepts from **Control & Instrumentation, Python, and AI** into practical, working projects. I strongly believe that **clarity, consistency, and fundamentals** matter more than hype.
+
+---
+
+## 🔭 What I’m Currently Working On
+- 🤖 **AI-powered Chatbot projects** using Python & Chat UI frameworks  
+- 🧠 Strengthening **Data Structures & Algorithms** (logic + optimization)  
+- 🛠 Building **Python applications** using OOP, SQLite, and GUI frameworks  
+- ⚙ Exploring **Control & Instrumentation systems** with software integration  
+- 🔗 Projects that **bridge ECE concepts with software systems**
+
+---
+
+## 👯 I’m Looking to Collaborate On
+- 💡 **Chatbot & AI-based tools** (assistants, automation, NLP experiments)  
+- 🧩 **Open-source Python projects** with clean architecture  
+- ⚡ **ECE + Software hybrid projects** (dashboards, simulators, monitoring systems)  
+- 🎓 Student-driven technical communities & learning-in-public initiatives
+
+---
+
+## 🤝 I’m Looking for Help With
+- 🏗 Designing **scalable chatbot architectures**  
+- 🧼 Writing **production-quality Python code**  
+- 🔄 Applying **instrumentation & electronics concepts** in software projects  
+- 🌱 Open-source workflows (issues, PRs, best practices)
+
+---
+
+## 🌱 Currently Learning
+- 🐍 **Advanced Python** (OOP, databases, automation, chatbots)  
+- 📊 **Data Structures & Algorithms**  
+- 🤖 **AI & Machine Learning fundamentals**  
+- 📡 Core **ECE subjects** with practical, industry-oriented focus
+
+---
+
+## 💬 Ask Me About
+- 🤖 Building **Python chatbots from scratch**  
+- 🧠 DSA learning strategies for students  
+- ⚙ Control & Instrumentation basics (NTPC C&I exposure)  
+- 🔗 Combining **ECE theory with software development**
+
+---
+
+## ⚡ Fun Fact
+🏆 **Jagran Genius Award** recipient  
+🎓 **British Council Certified – C1 Advanced English**  
+💡 I enjoy simplifying complex technical ideas and turning theory into real, working systems.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+`Python` `C`
+
+**Core Concepts:**  
+`OOP` `DSA` `Databases` `Control & Instrumentation`
+
+**Tools & Frameworks:**  
+`SQLite` `Tkinter` `Streamlit` `Git & GitHub`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh-0607&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh-0607&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/kaustubh06  
+- 📧 Email: kaustubh.tech06@gmail.com  
+
+---
+
+⭐ *If you like structured learning, real projects, and honest progress — feel free to connect or collaborate.*
+
 
 
 ## 🌐 Socials:
