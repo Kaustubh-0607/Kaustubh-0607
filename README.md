@@ -82,7 +82,7 @@ I focus on **learning by building** — turning concepts from **Control & Instru
 ![](https://nirzak-streak-stats.vercel.app/?user=Kaustubh-0607&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh-0607&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# ✍️ Random Dev Quote
+# ✍️ New Thought, New Build
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # 🔝 Top Contributed Repo
