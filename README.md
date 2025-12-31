@@ -14,8 +14,6 @@
 </p>
 
 
-
-
 # 🚀 About Me
 
 I’m an **Electronics & Communication Engineering undergraduate** who loves building **real-world systems at the intersection of software and core engineering**.
@@ -84,10 +82,10 @@ I focus on **learning by building** — turning concepts from **Control & Instru
 ![](https://nirzak-streak-stats.vercel.app/?user=Kaustubh-0607&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh-0607&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kaustubh-0607&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
