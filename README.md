@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Banner](assets/banner.png)
 
 <!--
 **Kaustubh-0607/Kaustubh-0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
