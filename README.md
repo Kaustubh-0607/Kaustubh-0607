@@ -83,18 +83,6 @@ I focus on **learning by building** — turning concepts from **Control & Instru
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh-0607&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh-0607&theme=tokyonight" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/kaustubh06  
 - 📧 Email: kaustubh.tech06@gmail.com  
