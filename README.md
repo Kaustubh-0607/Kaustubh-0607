@@ -71,6 +71,24 @@ I enjoy simplifying complex technical ideas and turning theory into real, workin
 
 
 
+<h2 align="center">🏆 Certifications</h2>
+
+<p align="center">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B7BB23E70C35DC3CA82AE60F36AD933535FF734FF24028D0C878AB5510DEB3EC">
+    <img src="./assets/oracle-ai-foundations-associate-2025.png" width="220" alt="Oracle Cloud Infrastructure AI Foundations Associate 2025">
+  </a>
+</p>
+
+<p align="center">
+  <b>Oracle Cloud Infrastructure AI Foundations Associate (2025)</b><br>
+  Issued by Oracle<br>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B7BB23E70C35DC3CA82AE60F36AD933535FF734FF24028D0C878AB5510DEB3EC">
+    🔗 Verify Credential
+  </a>
+</p>
+
+
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustubh06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaustubh.tech06@gmail.com) 
 
